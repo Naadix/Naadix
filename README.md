@@ -1,6 +1,6 @@
 [![MasterHead](https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg)](https://github.com/Naadix)
 <h1 align="center">Hi 👋, I'm Naadir</h1>
-<h3 align="center">A Front-end Developer and CS Student</h3>
+<h3 align="center">Front-end Developer | Master's Student in AI</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naadix&label=Profile%20views&color=0e75b6&style=flat" alt="naadix" /> </p>
